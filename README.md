@@ -1,3 +1,3 @@
 #   Documentação do compomnente
 
-esse package é o brabo.
+Pacote desenvolvido junto com o curso de Composer da Alura ministrado por Vnicius Dias.
